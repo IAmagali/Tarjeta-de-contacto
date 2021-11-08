@@ -1,0 +1,39 @@
+
+body{
+background-image:url(/images/fondo.jpg);
+color: black;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#main{
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.contacto {
+    padding: 5% 0%;
+}
+
+.contacto a{
+    text-decoration: none;
+    background-color: aqua;
+    padding: 2%;
+    color: white;
+    border-radius: 5%;
+}
+
+.perfil span {
+    color: aqua;
+}
+
+.tarjeta {
+    display: inline-block;
+    padding: 1% 5% ;
+    border-radius: 2%;
+    text-align: center;
+    background-color: white;
+}
